@@ -9,6 +9,7 @@ Development
 
 ### Bug fixes / enhancements
 - In ruby 2.4.5 looks like rescue fails for operator precendence [#14666](https://github.com/CartoDB/cartodb/pull/14666)
+- Remove patches for Rails 3 and ruby 2.4 not longer needed [#14667](https://github.com/CartoDB/cartodb/pull/14667)
 
 4.25.1 (2019-02-11)
 -------------------
